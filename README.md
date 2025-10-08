@@ -1,4 +1,4 @@
-## Hi there 👋
+student of the technical course in computer science at the Federal Institute of Paraná - Londrina campus
 
 <!--
 **Canhadaz/Canhadaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
