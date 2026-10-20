@@ -1,4 +1,5 @@
-student of the technical course in computer science at the Federal Institute of Paraná - Londrina campus
+IT Technician graduate from the Federal Institute of Paraná (IFPR) – Londrina
+Currently pursuing a degree in Information Systems at the Federal University of Technology – Paraná (UTFPR) – Londrina.
 
 <!--
 **Canhadaz/Canhadaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
